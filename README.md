@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Farahani's GitHub stats](https://github-readme-stats.vercel.app/api?username=farahani456&theme=radical)
 <!--
+![Farahani's GitHub stats](https://github-readme-stats.vercel.app/api?username=farahani456&count_private=true&theme=radical)
 **farahani456/farahani456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
